@@ -30,7 +30,7 @@ We propose a real-time method robust to changes in magnification levels by train
 
 - Before executing the sctipts, make sure you have correctly edited the configuration file: **config.cfg**
 - The medical images used in this project come from [BreakHis](https://www.kaggle.com/datasets/ambarish/breakhis) dataset proposed in [2]
-![breakhis](https://github.com/RobinHCK/Breast-cancer-classification-methods-for-augmented-reality-microscopes/blob/master/img/breakhis.png)
+![breakhis](https://github.com/RobinHCK/Breast-cancer-classification-methods-for-augmented-reality-microscopes/blob/main/img/breakhis.png)
 
 
 <!-- WORKFLOW -->
@@ -54,11 +54,11 @@ We propose a real-time method robust to changes in magnification levels by train
 
 - Create the heatmap:
   - python 5_experiment_heatmap.py 
-![heatmap](https://github.com/RobinHCK/Breast-cancer-classification-methods-for-augmented-reality-microscopes/blob/master/img/heatmap.png)
+![heatmap](https://github.com/RobinHCK/Breast-cancer-classification-methods-for-augmented-reality-microscopes/blob/main/img/heatmap.png)
 - Create accuracy and loss graph:
   - python 6_save_graphs.py 
 - Compare methods thanks to the results shown in the heatmap:
-![methods](https://github.com/RobinHCK/Breast-cancer-classification-methods-for-augmented-reality-microscopes/blob/master/img/methods.png)
+![methods](https://github.com/RobinHCK/Breast-cancer-classification-methods-for-augmented-reality-microscopes/blob/main/img/methods.png)
 
 <!-- CONTACT -->
 ## Contact
